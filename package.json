@@ -11,7 +11,7 @@
     "url": "git+https://github.com/EryouHao/node-work-wechat.git"
   },
   "dependencies": {
-    "crypto": "^0.0.3",
+    "@wecom/crypto": "^1.0.0",
     "request": "^2.81.0",
     "thunkify": "^2.1.2",
     "xml2js": "^0.4.17"
